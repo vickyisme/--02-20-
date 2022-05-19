@@ -1,0 +1,10 @@
+Package: prog2-lec3.o
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essential: no
+Installed-Size: 16
+Maintainer: vickyisme <viki.kom@mail.ru>
+Description: fork()
